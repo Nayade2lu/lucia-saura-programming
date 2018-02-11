@@ -1,8 +1,6 @@
 # lucia-saura-programming
 Weekly exercises
 
-Exercise week 1 Fibonacci exercise: 
+Exercise week 1 and exercise week 2: 
 Name of the file: fib
 
-Exercise week 2:
-Name of the file: test5
