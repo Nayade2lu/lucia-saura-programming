@@ -1,0 +1,19 @@
+# Lucia Saura
+# A program that displays the Fibonacci number of the sum of the first letter of my name and the last one
+
+def fib(n):
+  """This function returns the nth Fibonacci number."""
+  i = 0
+  j = 1
+  n = n - 1
+
+  while n >= 0:
+    i, j = j, i + j
+    n = n - 1
+  
+  return i
+
+# Test the function with the following value.
+x = 13
+ans = fib(x)
+print("Fibonacci number", x, "is", ans)
