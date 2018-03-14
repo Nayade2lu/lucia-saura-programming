@@ -1,17 +1,49 @@
 # Lucia Saura 13/3/2018 Euler 5
 
+words = ['cat', 'window', 'defenestrate']
 
-n= [1,2,3,4,5,6,7,8,]
+for w in words:
+    print(w, len(w))
 
-for i in n:
-    if n % i == 0:
-        print(n)
+for i in range(1,100):
+    if i % 6  ==0:
+        print(i)
+
+for i in range(1,100):
+    if 6 % i  ==0:
+        print(i)
+
+for i in range (1,10):
+    if i % 2 and 3 == 0:
+        print(i)
         
-#First attempt with a list 
-#The result is not satisfactory 
-#Ls-MacBook-Air:Week 4_13_03_2018 lucia$ python Euler5.py
-#Traceback (most recent call last):
-  #File "Euler5.py", line 7, in <module>
-    #if n % i == 0:
-#TypeError: unsupported operand type(s) for %: 'list' and 'int'
-#Ls-MacBook-Air:Week 4_13_03_2018 lucia$
+# Second attempt trying with a list and then with small numbers
+#Firs For loop got from internet just to see and play on how the 'For' works (but is using a list instead of a range...)
+#Result not satisfactory to continue from there as in the second for statement I am getting the multiples of 6 in a range from 1 to 100, but I shouldnt put limits on the numbers the loop has to run so the range is not correct here
+#The third for is giving the numbers of which 6 is divisible in a range from 1 to 10 so not the right solution either...(I shouldn't use the 6 in the code, as this should be the result)
+#For the forth attempt I don't get results...
+#See the result from the different tests
+# Ls-MacBook-Air:Week 4_13_03_2018 lucia$ python Euler5v2.py
+>>>cat 3
+>>>window 6
+>>>defenestrate 12
+>>>6
+>>>12
+>>>18
+>>>24
+>>>30
+>>>36
+>>>42
+>>>48
+>>>54
+>>>60
+>>>66
+>>>72
+>>>78
+>>>84
+>>>90
+>>>96
+>>>1
+>>>2
+>>>3
+>>>6
