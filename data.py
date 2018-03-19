@@ -2,4 +2,6 @@
 # more straight forward than the previous way with the "with" keyword
 
 with open("irisdata.csv") as f:
-    print (f.read())
+    contents = f.read()
+    print (contents)
+print ("out of with")
