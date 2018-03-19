@@ -3,5 +3,6 @@
 
 with open("irisdata.csv") as f:
     contents = f.read()
-    print (contents)
+    print ('{:2d} {} {} {} {}'.format(contents))
+
 print ("out of with")
