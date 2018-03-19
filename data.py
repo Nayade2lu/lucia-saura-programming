@@ -1,10 +1,5 @@
 #Open Iris data Lucia Saura 19/03/2018
+# more straight forward than the previous way with the "with" keyword
 
-
-f = open("irisdata.csv")
-
-print(f)
-
-print (f.read())
-
-f.close()
+with open("irisdata.csv") as f:
+    print (f.read())
