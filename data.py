@@ -1,6 +1,6 @@
 #Open Iris data Lucia Saura 20/03/2018
 # iris data set split in columns (based on SARAH SCHOLZ code)
-# 
+# Showing in nice formating each column
 
 with open("irisdata.csv") as f:
     for line in f: #loops trough each line
