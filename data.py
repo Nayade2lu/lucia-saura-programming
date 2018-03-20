@@ -3,6 +3,5 @@
 
 with open("irisdata.csv") as f:
     for line in f:
-        print(line.split (',') , [1])
+        print(line.split(',')[0])
 
-print ("out of with")
