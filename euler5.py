@@ -11,4 +11,4 @@ while num > a :
     a=a+1
   else:
     print('prime')
-    a=(num)+1
+    a=(num)+2
