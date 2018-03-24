@@ -15,14 +15,14 @@ print(s)
 # function. The function gets the greatest common divisor for the values x and y
 
 def maxcomdivisor (x, y):
-    while x != y:
+    while x !=0 and y !=0:
         #the while loop, loops until x = y
         if x > y:
             #the if statement makes the following comand if x is a number greater than y
-            x= x-y
+            x= x%y
         else:
             #when the x gets lower than y the else statement applies
-            y=y-x
+            y=y%x
     return x
     #the return makes the function to return x (could be x or y)
 
