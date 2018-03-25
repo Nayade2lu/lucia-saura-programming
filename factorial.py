@@ -15,6 +15,6 @@ def factorial3 (num):
         #then actualise the number for one less than itself and repeat the process in the for loop wilth all numbers less than the (num) until arriving to 1
     print (x)
     #print the final result of the loop (x)
-print(factorial3(5))
+print(factorial3(7))
 # in this statement we call the function and assign a value to (num)
 # a 'None' appearing in the terminal after the result (To be investigated)    
