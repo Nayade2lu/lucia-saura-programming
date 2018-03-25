@@ -1,16 +1,17 @@
-#lucia saura 24/03/2018
-#factorial
+# Lucia Saura 24/03/2017
+# factorial
 
-def factor (x):
-    #first a name is given to the function and a value assigned
-    while x>1:
-        x=x-1
-        #actualizing the value of x for a smaller number
-        if x >1:
-        #when x is greater than 1 do the following
-            x= x * (x-1)
-        # actualize the value of x for the result of x multiplied per x-1
-        #not working don't know the reason, maybe I need two values in the loop? one for the x and a different one for the result of the multiplication?
+def factorial(y):
+    #naming the fucntion and the value I will call later
+    x=1
+    # assigning a value to x
+    while x < y-1:
+    # loop provided that the x is less than y-1 (I thought the fatorial did not include the multiplication by itself, this is why I was substracting a 1 to the y)
+        x=x+1
+        #actualise the value of x each time (from 1 to y-1)
+        print(x-1)
+        #printing the numbers to see that it's looping as expected
     return x
-print (factor (5))
-#not working as the loop never ends
+print(factorial(5))
+#calling the function and giving y a value
+    
