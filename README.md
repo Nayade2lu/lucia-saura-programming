@@ -20,7 +20,7 @@ Name of the file: __euler5.py__
 Name of the file: __irisdata.py__
 
 * _Exercise 6:_ 
-Name of the file: __factorial.py__ . 
+Name of the file: __factorial.py__  
 
 
 
