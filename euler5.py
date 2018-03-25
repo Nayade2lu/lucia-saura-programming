@@ -33,13 +33,14 @@ print(factorial3(20))
 
 for nu in range (25200000,243290200817664):
   # this loop sets the range from the minimum common divisor from 1 to 10 and the factorial of 20
-  for s in range (10,20):
+  for s in range (11,21):
     # this loop sets the range of numbers from 1 to 20
     if nu % s ==0:
       #the if statement shows the numbers (from 2520,to 20 factorial) that are divisible from the numbers from 1 to 20
       #prints all the numbers that are divisible (it doesn't stop in the first one)
-      break  
+      break 
       #the break is supposed to end the loop 
       #not working because it prints lots of numbers that are divisible not only the first one
+      nu=nu+1
 print (nu)
 
