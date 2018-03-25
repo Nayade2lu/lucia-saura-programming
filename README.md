@@ -1,6 +1,6 @@
 # lucia-saura-programming repository
 This repository is the Programming and Scripting course weekly exercises repository.  
-The content of this repository is written in Python.
+The content of this repository is written in [Python](https://www.python.org/).
 
 ## Purpose
 The purpose of this repository is indexing the weekly exercises and showing the progress, process and toughts until accomplishing them.
