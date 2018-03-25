@@ -31,15 +31,15 @@ print(factorial3(20))
 # in this statement we call the function and assign a value to (num)
 # a 'None' appearing in the terminal after the result (To be investigated)  
 
-for nu in range (2520,2432902008176640000):
+for nu in range (25200000,243290200817664):
   # this loop sets the range from the minimum common divisor from 1 to 10 and the factorial of 20
-  for s in range (20):
+  for s in range (10,20):
     # this loop sets the range of numbers from 1 to 20
     if nu % s ==0:
       #the if statement shows the numbers (from 2520,to 20 factorial) that are divisible from the numbers from 1 to 20
-      print (nu)
       #prints all the numbers that are divisible (it doesn't stop in the first one)
       break  
       #the break is supposed to end the loop 
       #not working because it prints lots of numbers that are divisible not only the first one
+print (nu)
 
