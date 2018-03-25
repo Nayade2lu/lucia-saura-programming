@@ -23,7 +23,7 @@ Name of the file: __5_data.py__
 Name of the file: __6_factorial.py__  
 
 
-PS: not sure if after changing the names of the files in the repository (to set some order in the repository) the history of the files looks at them hould be. I see the history of changes, though on the "commits"
+PS: not sure if after changing the names of the files in the repository (to set some order in the repository) the history of the files looks as they should be. I see the history of changes, though on the "commits"
 
 ![](https://i.pinimg.com/originals/c3/e1/47/c3e1476eb761c049130ae6585238de14.jpg)
 
