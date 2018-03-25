@@ -17,4 +17,4 @@ def factorial3 (num):
     #print the final result of the loop (x)
 print(factorial3(5))
 # in this statement we call the function and assign a value to (num)
-    
+# a 'None' appearing in the terminal after the result (To be investigated)    
