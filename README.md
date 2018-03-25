@@ -5,8 +5,7 @@ The content of this repository is written in Python.
 ## Purpose
 The purpose of this repository is indexing the weekly exercises and showing the progress, process and toughts until accomplishing them.
 
-### Compiling these files . 
-### List of exercises and names
+### Compiling these files. List of exercises and names
 * _Exercise 1 and exercise 2:_ 
 Name of the file: __fib.py__
 
