@@ -1,4 +1,4 @@
-# lucia-saura-programming Repository
+# lucia-saura-programming repository
 This repository is the programming and scripting course weekly exercises repository
 
 ## Purpose
