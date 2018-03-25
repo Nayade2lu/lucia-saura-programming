@@ -8,19 +8,19 @@ The purpose of this repository is indexing the weekly exercises and showing the 
 ### Compiling these files. List of exercises and names
 
 * _Exercise 1 and exercise 2:_ 
-Name of the file: __fib.py__
+Name of the file: __1_fib.py__
 
 * _Exercise 3:_
-Name of the file: __collaz.py__
+Name of the file: __3_collaz.py__
 
 * _Exercise 4:_
-Name of the file: __euler5.py__
+Name of the file: __4_euler5.py__
 
 * _Exercise 5:_
-Name of the file: __data.py__
+Name of the file: __5_data.py__
 
 * _Exercise 6:_ 
-Name of the file: __factorial.py__  
+Name of the file: __6_factorial.py__  
 
 
 
