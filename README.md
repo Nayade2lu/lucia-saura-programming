@@ -6,10 +6,10 @@ The purpose of this repository is index the weekl exercises and show the progres
 
 ### List of exercises and names
 * _Exercise week 1 and exercise week 2:_ 
-Name of the file: __fib__
+Name of the file: __fib.py__
 
 * _Exercise week 3:_
-Name of the file: __collaz__
+Name of the file: __collaz.py__
 
 * _Exercise week 4:_
 Name of the file: 
