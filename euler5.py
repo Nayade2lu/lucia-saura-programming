@@ -2,6 +2,7 @@
 # first step euler 5
 # identifying prime numbers (code source python tutorial)
 
+
 for n in range(2, 10):
      for x in range(2, n):
          if n % x == 0:
@@ -9,5 +10,6 @@ for n in range(2, 10):
              break
      else:
          # loop fell through without finding a factor
-         print(n, 'is a prime number')
+         print(n * n, 'multiplication of prime numbers')
+         #attempt to multiply the prime numbers, not working: it is multiplying the prime number by itself
 
