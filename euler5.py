@@ -10,7 +10,7 @@ for n in range(2, 10):
              break
      else:
          # loop fell through without finding a factor
-         print(n * n, 'multiplication of prime numbers')
+         print(n, 'is a prime number')
          #attempt to multiply the prime numbers, not working: it is multiplying the prime number by itself
 
 
