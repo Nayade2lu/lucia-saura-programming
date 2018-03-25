@@ -1,5 +1,5 @@
 # lucia-saura-programming repository
-This repository is the programming and scripting course weekly exercises repository
+This repository is the programming and scripting course weekly exercises repository.  
 The content of this repository is written in Python
 
 ## Purpose
