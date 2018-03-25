@@ -15,4 +15,5 @@ def factorial(y):
     #return the result
 print(factorial(5))
 #calling the function and giving y a value
+#not working it seems it only shows the result of the last multiplication ((x)4 * (x+1)5)
     
