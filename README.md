@@ -17,7 +17,7 @@ Name of the file: __collaz.py__
 Name of the file: __euler5.py__
 
 * _Exercise 5:_
-Name of the file: __irisdata.py__
+Name of the file: __data.py__
 
 * _Exercise 6:_ 
 Name of the file: __factorial.py__  
